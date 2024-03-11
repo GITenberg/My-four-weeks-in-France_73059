@@ -1,0 +1,45 @@
+_repo: My-four-weeks-in-France_73059
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Morgan, Wallace
+    birthdate: 1875
+    deathdate: 1948
+    gutenberg_agent_id: '7934'
+    url: http://www.gutenberg.org/2009/agents/7934
+    wikipedia: https://en.wikipedia.org/wiki/Wallace_Morgan
+creator:
+  author:
+    agent_name: Lardner, Ring
+    aliases:
+    - Lardner, Ring Wilmer
+    - Lardner, Ring W. (Ring Wilmer)
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '2457'
+    url: http://www.gutenberg.org/2009/agents/2457
+    wikipedia: https://en.wikipedia.org/wiki/Ring_Lardner
+description: ''
+gutenberg_issued: '2024-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73059'
+  lccn: '18011142'
+language: en
+pgterms:marc904: https://books.google.com/books?id=s81wOxQgEK0C&printsec=frontcover&dq=my+four+weeks+in+france+lardner&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi1yO6j0NqDAxUWkWoFHVLCCmgQ6AF6BAgIEAI#v=onepage&q=my%20four%20weeks%20in%20france%20lardner&f=false
+pgterms:marc905: 20240113070000lardner
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Tim Miller and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aIndianapolis :$bThe Bobbs-Merrill Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- GITenberg
+title: My four weeks in France
+url: http://www.gutenberg.org/ebooks/73059
